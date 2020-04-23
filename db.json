@@ -11,10 +11,13 @@
     { "id": 9, "label": "Bridgetown", "value": "BB" },
     { "id": 10, "label": "Buenos Aires", "value": "BE" }
   ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "relationships": [
+    { "id": 1, "label": "Son", "value": "B" },
+    { "id": 2, "label": "Father", "value": "F" },
+    { "id": 3, "label": "Daughter", "value": "D" },
+    { "id": 4, "label": "Mother", "value": "M" },
+    { "id": 5, "label": "Spouse", "value": "S" },
+    { "id": 6, "label": "Other", "value": "X" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
