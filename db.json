@@ -19,12 +19,53 @@
     { "id": 5, "label": "Spouse", "value": "S" },
     { "id": 6, "label": "Other", "value": "X" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 1, "body": "some comment", "postId": 2 },
-    { "id": 1, "body": "some comment", "postId": 3 },
-    { "id": 1, "body": "some comment", "postId": 4 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "jobs": [
+    { "id": 1, "jobCode": "ALAT", "jobDesc": "Assistant Legal Attache" },
+    { "id": 2, "jobCode": "AS", "jobDesc": "Administrative Specialist" },
+    { "id": 3, "jobCode": "CD-ALAT", "jobDesc": "CD Assistant Legal Attache" },
+    { "id": 4, "jobCode": "CD-IA", "jobDesc": "CD Intelligence Analyst" },
+    {
+      "id": 5,
+      "jobCode": "CID-ALAT",
+      "jobDesc": "CID Assistant Legal Attache"
+    },
+    { "id": 6, "jobCode": "CID-IA", "jobDesc": "CID Intelligence Analyst" },
+    { "id": 7, "jobCode": "CTD-IA", "jobDesc": "CTD Intelligence Analyst" },
+    {
+      "id": 8,
+      "jobCode": "CY-ALAT",
+      "jobDesc": "Cyber Assistant Legal Attache"
+    },
+    { "id": 9, "jobCode": "CY-IA", "jobDesc": "Cyber Intelligence Analyst" },
+    { "id": 10, "jobCode": "DD", "jobDesc": "Deputy Director (ICITAP)" },
+    { "id": 11, "jobCode": "DLAT", "jobDesc": "Deputy Legal Attache" },
+    { "id": 12, "jobCode": "FOS", "jobDesc": "Foreign Operations Specialist" },
+    { "id": 13, "jobCode": "IA", "jobDesc": "Intelligence Analyst" },
+    {
+      "id": 14,
+      "jobCode": "IRS",
+      "jobDesc": "Intelligence Research Specialist"
+    },
+    { "id": 15, "jobCode": "Legat", "jobDesc": "Legal Attache" },
+    { "id": 16, "jobCode": "LNO", "jobDesc": "Liaison Officer" },
+    { "id": 17, "jobCode": "LOA", "jobDesc": "Legat Office Assistant" },
+    { "id": 18, "jobCode": "LOS", "jobDesc": "Legat Operations Specialist" },
+    { "id": 19, "jobCode": "LS", "jobDesc": "Language Specialist" },
+    { "id": 20, "jobCode": "LTDY", "jobDesc": "Long Term TDY" },
+    { "id": 21, "jobCode": "PM", "jobDesc": "Program Manager (ILEA)" },
+    { "id": 22, "jobCode": "R6", "jobDesc": "Resolution 6 (DEA Detailee)" },
+    { "id": 23, "jobCode": "R6-IA", "jobDesc": "Resolution 6 Intel. Analyst" },
+    { "id": 24, "jobCode": "SA", "jobDesc": "Special Agent" },
+    { "id": 25, "jobCode": "SADV", "jobDesc": "Senior Advisor" },
+    { "id": 26, "jobCode": "SSA", "jobDesc": "Supervisory Special Agent" },
+    { "id": 27, "jobCode": "TF", "jobDesc": "Task Force (Detailee)" },
+    { "id": 28, "jobCode": "VSM", "jobDesc": "Victim Services Mgr" },
+    {
+      "id": 29,
+      "jobCode": "WMD-ALAT",
+      "jobDesc": "WMD Assistant Legal Attache"
+    },
+    { "id": 30, "jobCode": "WMD-IA", "jobDesc": "WMDD Intelligence Analyst" }
   ],
   "profile": {
     "name": "typicode"
