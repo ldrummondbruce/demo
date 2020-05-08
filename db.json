@@ -19,6 +19,19 @@
     { "id": 5, "label": "Spouse", "value": "S" },
     { "id": 6, "label": "Other", "value": "X" }
   ],
+  "travel": [
+    { "id": 1, "label": "Resolution 6", "value": "6" },
+    { "id": 2, "label": "Training", "value": "A" },
+    { "id": 3, "label": "Reg. Rest Break", "value": "B" },
+    { "id": 4, "label": "Consultation Travel", "value": "C" },
+    { "id": 5, "label": "Educational", "value": "D" },
+    { "id": 6, "label": "Emergency Visit/Medical", "value": "E" },
+    { "id": 7, "label": "Home Leave", "value": "H" },
+    { "id": 8, "label": "R & R Leave", "value": "R" },
+    { "id": 9, "label": "Children of Separated Parents", "value": "S" },
+    { "id": 10, "label": "Tour Renewal Travel", "value": "W" }
+  ],
+
   "jobs": [
     { "id": 1, "jobCode": "ALAT", "jobDesc": "Assistant Legal Attache" },
     { "id": 2, "jobCode": "AS", "jobDesc": "Administrative Specialist" },
