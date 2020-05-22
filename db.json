@@ -41,7 +41,8 @@
       "tdyEndDate": "12/25/2003",
       "trNumber": "75752",
       "tdyCost": "$875",
-      "tdySimilarDuty": "Yes"
+      "tdySimilarDuty": "Yes",
+      "tdyReason": ""
     },
     {
       "parentId": "4",
@@ -51,7 +52,8 @@
       "tdyEndDate": "4/18/2008",
       "trNumber": "787272",
       "tdyCost": "$2346",
-      "tdySimilarDuty": "No"
+      "tdySimilarDuty": "No",
+      "tdyReason": ""
     },
     {
       "parentId": "4",
@@ -61,7 +63,8 @@
       "tdyEndDate": "5/30/2003",
       "trNumber": "872527",
       "tdyCost": "$8657",
-      "tdySimilarDuty": "Yes"
+      "tdySimilarDuty": "Yes",
+      "tdyReason": ""
     },
     {
       "parentId": "4",
@@ -71,7 +74,8 @@
       "tdyEndDate": "2/2/2000",
       "trNumber": "4057558",
       "tdyCost": "$5453",
-      "tdySimilarDuty": "Yes"
+      "tdySimilarDuty": "Yes",
+      "tdyReason": ""
     },
     {
       "parentId": "2",
@@ -81,7 +85,8 @@
       "tdyEndDate": "5/4/2015",
       "trNumber": "7141178",
       "tdyCost": "$6786",
-      "tdySimilarDuty": "No"
+      "tdySimilarDuty": "No",
+      "tdyReason": ""
     },
     {
       "parentId": "2",
@@ -91,7 +96,8 @@
       "tdyEndDate": "8/15/2014",
       "trNumber": "827540",
       "tdyCost": "$2333",
-      "tdySimilarDuty": "No"
+      "tdySimilarDuty": "No",
+      "tdyReason": ""
     },
     {
       "parentId": "2",
@@ -101,7 +107,8 @@
       "tdyEndDate": "3/1/2016",
       "trNumber": "3550245",
       "tdyCost": "$989",
-      "tdySimilarDuty": "Yes"
+      "tdySimilarDuty": "Yes",
+      "tdyReason": ""
     },
     {
       "parentId": "2",
@@ -111,7 +118,8 @@
       "tdyEndDate": "8/24/2020",
       "trNumber": "452727",
       "tdyCost": "$566",
-      "tdySimilarDuty": "Yes"
+      "tdySimilarDuty": "Yes",
+      "tdyReason": ""
     },
     {
       "parentId": "2",
@@ -121,7 +129,8 @@
       "tdyEndDate": "5/4/2020",
       "trNumber": "9827752",
       "tdyCost": "$99",
-      "tdySimilarDuty": "No"
+      "tdySimilarDuty": "No",
+      "tdyReason": ""
     },
     {
       "parentId": "2",
@@ -131,7 +140,8 @@
       "tdyEndDate": "12/31/2016",
       "trNumber": "452527",
       "tdyCost": "$4534",
-      "tdySimilarDuty": "Yes"
+      "tdySimilarDuty": "Yes",
+      "tdyReason": ""
     },
     {
       "parentId": "5",
@@ -141,7 +151,8 @@
       "tdyEndDate": "1/1/2003",
       "trNumber": "9782782",
       "tdyCost": "$345",
-      "tdySimilarDuty": "No"
+      "tdySimilarDuty": "No",
+      "tdyReason": ""
     },
     {
       "parentId": "5",
@@ -151,7 +162,8 @@
       "tdyEndDate": "12/27/2002",
       "trNumber": "54057275",
       "tdyCost": "$3453",
-      "tdySimilarDuty": "Yes"
+      "tdySimilarDuty": "Yes",
+      "tdyReason": ""
     },
     {
       "parentId": "5",
@@ -161,7 +173,8 @@
       "tdyEndDate": "8/14/2004",
       "trNumber": "654023727",
       "tdyCost": "$875",
-      "tdySimilarDuty": "Yes"
+      "tdySimilarDuty": "Yes",
+      "tdyReason": ""
     },
     {
       "parentId": "5",
@@ -171,7 +184,8 @@
       "tdyEndDate": "7/31/2006",
       "trNumber": "0242378",
       "tdyCost": "$100",
-      "tdySimilarDuty": "No"
+      "tdySimilarDuty": "No",
+      "tdyReason": ""
     },
     {
       "parentId": "5",
@@ -181,7 +195,8 @@
       "tdyEndDate": "8/1/2005",
       "trNumber": "1525778",
       "tdyCost": "$345",
-      "tdySimilarDuty": "Yes"
+      "tdySimilarDuty": "Yes",
+      "tdyReason": ""
     },
     {
       "parentId": "3",
@@ -191,7 +206,8 @@
       "tdyEndDate": "5/30/2017",
       "trNumber": "527278",
       "tdyCost": "$4543",
-      "tdySimilarDuty": "Yes"
+      "tdySimilarDuty": "Yes",
+      "tdyReason": ""
     },
     {
       "parentId": "3",
@@ -201,7 +217,8 @@
       "tdyEndDate": "3/12/2008",
       "trNumber": "895872",
       "tdyCost": "$4546",
-      "tdySimilarDuty": "No"
+      "tdySimilarDuty": "No",
+      "tdyReason": ""
     },
     {
       "parentId": "3",
@@ -211,7 +228,8 @@
       "tdyEndDate": "1/10/2000",
       "trNumber": "045024",
       "tdyCost": "$8567",
-      "tdySimilarDuty": "Yes"
+      "tdySimilarDuty": "Yes",
+      "tdyReason": ""
     },
     {
       "parentId": "3",
@@ -221,7 +239,8 @@
       "tdyEndDate": "3/5/2020",
       "trNumber": "575278",
       "tdyCost": "$987",
-      "tdySimilarDuty": "No"
+      "tdySimilarDuty": "No",
+      "tdyReason": ""
     }
   ],
   "offices": [
