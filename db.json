@@ -300,23 +300,6 @@
       "tdyReason": ""
     }
   ],
-  "travel": [
-    { "id": 1, "travelDesc": "Resolution 6", "travelCode": "6" },
-    { "id": 2, "travelDesc": "Training", "travelCode": "A" },
-    { "id": 3, "travelDesc": "Reg. Rest Break", "travelCode": "B" },
-    { "id": 4, "travelDesc": "Consultation Travel", "travelCode": "C" },
-    { "id": 5, "travelDesc": "Educational", "travelCode": "D" },
-    { "id": 6, "travelDesc": "Emergency Visit/Medical", "travelCode": "E" },
-    { "id": 7, "travelDesc": "Home Leave", "travelCode": "H" },
-    { "id": 8, "travelDesc": "R & R Leave", "travelCode": "R" },
-    {
-      "id": 9,
-      "travelDesc": "Children of Separated Parents",
-      "travelCode": "S"
-    },
-    { "id": 10, "travelDesc": "Tour Renewal Travel", "travelCode": "W" }
-  ],
-
   "jobs": [
     { "id": 1, "jobCode": "ALAT", "jobDesc": "Assistant Legal Attache" },
     { "id": 2, "jobCode": "AS", "jobDesc": "Administrative Specialist" },
