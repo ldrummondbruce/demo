@@ -20,7 +20,7 @@
       "trNumber": "235252",
       "tripCost": "$123",
       "tripSimilarDuty": "Yes",
-      "tripReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "tripReason": "Lorem ipsum eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "parentId": "3",
@@ -31,7 +31,7 @@
       "trNumber": "546545",
       "tripCost": "$567",
       "tripSimilarDuty": "No",
-      "tripReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "tripReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "parentId": "4",
@@ -42,7 +42,7 @@
       "trNumber": "75752",
       "tripCost": "$875",
       "tripSimilarDuty": "Yes",
-      "tripReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "tripReason": "Do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "parentId": "4",
@@ -154,7 +154,7 @@
       "trNumber": "235252",
       "tdyCost": "$123",
       "tdySimilarDuty": "Yes",
-      "tdyReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "tdyReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "parentId": "2",
@@ -165,7 +165,7 @@
       "trNumber": "546545",
       "tdyCost": "$567",
       "tdySimilarDuty": "No",
-      "tdyReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "tdyReason": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "parentId": "1",
@@ -176,7 +176,7 @@
       "trNumber": "75752",
       "tdyCost": "$875",
       "tdySimilarDuty": "Yes",
-      "tripReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "tripReason": "Lorem ipsum tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "parentId": "4",
