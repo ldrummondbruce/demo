@@ -8,7 +8,8 @@
       "tripEndDate": "10/30/2007",
       "trNumber": "123456",
       "tripCost": "$4345",
-      "tripSimilarDuty": "No",
+      "tripCostIsActual": "No",
+      "tripType": "Tour Renewal Travel",
       "tripNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
@@ -19,7 +20,8 @@
       "tripEndDate": "2/18/2009",
       "trNumber": "235252",
       "tripCost": "$123",
-      "tripSimilarDuty": "Yes",
+      "tripCostIsActual": "Yes",
+      "tripType": "Consultation Travel",
       "tripNotes": "Lorem ipsum eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
@@ -30,7 +32,8 @@
       "tripEndDate": "2/6/2007",
       "trNumber": "546545",
       "tripCost": "$567",
-      "tripSimilarDuty": "No",
+      "tripCostIsActual": "No",
+      "tripType": "Educational",
       "tripNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
@@ -41,30 +44,9 @@
       "tripEndDate": "12/25/2003",
       "trNumber": "75752",
       "tripCost": "$875",
-      "tripSimilarDuty": "Yes",
+      "tripCostIsActual": "Yes",
+      "tripType": "Home Leave",
       "tripNotes": "Do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      "parentId": "4",
-      "tripId": "5",
-      "tripOffice": "DE",
-      "tripStartDate": "4/19/2006",
-      "tripEndDate": "4/18/2008",
-      "trNumber": "787272",
-      "tripCost": "$2346",
-      "tripSimilarDuty": "No",
-      "tripNotes": ""
-    },
-    {
-      "parentId": "4",
-      "tripId": "6",
-      "tripOffice": "EF",
-      "tripStartDate": "3/28/2001",
-      "tripEndDate": "5/30/2003",
-      "trNumber": "872527",
-      "tripCost": "$8657",
-      "tripSimilarDuty": "Yes",
-      "tripNotes": ""
     },
     {
       "parentId": "2",
@@ -74,8 +56,9 @@
       "tripEndDate": "5/4/2015",
       "trNumber": "7141178",
       "tripCost": "$6786",
-      "tripSimilarDuty": "No",
-      "tripNotes": ""
+      "tripCostIsActual": "No",
+      "tripType": "Educational",
+      "tripNotes": "wa aetweasf rf waew "
     },
     {
       "parentId": "2",
@@ -85,7 +68,8 @@
       "tripEndDate": "8/15/2014",
       "trNumber": "827540",
       "tripCost": "$2333",
-      "tripSimilarDuty": "No",
+      "tripCostIsActual": "No",
+      "tripType": "R & R Leave",
       "tripNotes": ""
     },
     {
@@ -96,19 +80,9 @@
       "tripEndDate": "1/1/2003",
       "trNumber": "9782782",
       "tripCost": "$345",
-      "tripSimilarDuty": "No",
-      "tripNotes": ""
-    },
-    {
-      "parentId": "5",
-      "tripId": "18",
-      "tripOffice": "HO",
-      "tripStartDate": "7/9/2005",
-      "tripEndDate": "8/1/2005",
-      "trNumber": "1525778",
-      "tripCost": "$345",
-      "tripSimilarDuty": "Yes",
-      "tripNotes": ""
+      "tripCostIsActual": "No",
+      "tripType": "Tour Renewal Travel",
+      "tripNotes": "aerwae rfwae wrweawrewae"
     },
     {
       "parentId": "3",
@@ -118,7 +92,8 @@
       "tripEndDate": "5/30/2017",
       "trNumber": "527278",
       "tripCost": "$4543",
-      "tripSimilarDuty": "Yes",
+      "tripCostIsActual": "Yes",
+      "tripType": "Home Leave",
       "tripNotes": ""
     },
     {
@@ -129,7 +104,8 @@
       "tripEndDate": "3/5/2020",
       "trNumber": "575278",
       "tripCost": "$987",
-      "tripSimilarDuty": "No",
+      "tripCostIsActual": "No",
+      "tripType": "R & R Leave",
       "tripNotes": ""
     }
   ],
@@ -187,18 +163,7 @@
       "trNumber": "4057558",
       "tdyCost": "$5453",
       "tdySimilarDuty": "Yes",
-      "tdyReason": ""
-    },
-    {
-      "parentId": "2",
-      "id": "8",
-      "tdyOffice": "GA",
-      "tdyStartDate": "5/5/2012",
-      "tdyEndDate": "5/4/2015",
-      "trNumber": "7141178",
-      "tdyCost": "$6786",
-      "tdySimilarDuty": "No",
-      "tdyReason": ""
+      "tdyReason": "w45y w45y4w5  y"
     },
     {
       "parentId": "2",
@@ -209,7 +174,7 @@
       "trNumber": "452527",
       "tdyCost": "$4534",
       "tdySimilarDuty": "Yes",
-      "tdyReason": ""
+      "tdyReason": "uyiymo yfu rdyty yr"
     },
     {
       "parentId": "5",
@@ -230,17 +195,6 @@
       "tdyEndDate": "8/1/2005",
       "trNumber": "1525778",
       "tdyCost": "$345",
-      "tdySimilarDuty": "Yes",
-      "tdyReason": ""
-    },
-    {
-      "parentId": "3",
-      "id": "19",
-      "tdyOffice": "OF",
-      "tdyStartDate": "5/2/2017",
-      "tdyEndDate": "5/30/2017",
-      "trNumber": "527278",
-      "tdyCost": "$4543",
       "tdySimilarDuty": "Yes",
       "tdyReason": ""
     },
