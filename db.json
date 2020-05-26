@@ -1,7 +1,163 @@
 {
-  "staffTDY": [
+  "staffTravel": [
     {
       "parentId": "1",
+      "tripId": "1",
+      "tripOffice": "AA",
+      "tripStartDate": "8/4/2005",
+      "tripEndDate": "10/30/2007",
+      "trNumber": "123456",
+      "tripCost": "$4345",
+      "tripSimilarDuty": "No",
+      "tripReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "parentId": "2",
+      "tripId": "2",
+      "tripOffice": "AB",
+      "tripStartDate": "11/24/2008",
+      "tripEndDate": "2/18/2009",
+      "trNumber": "235252",
+      "tripCost": "$123",
+      "tripSimilarDuty": "Yes",
+      "tripReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "parentId": "3",
+      "tripId": "3",
+      "tripOffice": "AC",
+      "tripStartDate": "1/1/2003",
+      "tripEndDate": "2/6/2007",
+      "trNumber": "546545",
+      "tripCost": "$567",
+      "tripSimilarDuty": "No",
+      "tripReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "parentId": "4",
+      "tripId": "4",
+      "tripOffice": "CD",
+      "tripStartDate": "9/22/1998",
+      "tripEndDate": "12/25/2003",
+      "trNumber": "75752",
+      "tripCost": "$875",
+      "tripSimilarDuty": "Yes",
+      "tripReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "parentId": "4",
+      "tripId": "5",
+      "tripOffice": "DE",
+      "tripStartDate": "4/19/2006",
+      "tripEndDate": "4/18/2008",
+      "trNumber": "787272",
+      "tripCost": "$2346",
+      "tripSimilarDuty": "No",
+      "tripReason": ""
+    },
+    {
+      "parentId": "4",
+      "tripId": "6",
+      "tripOffice": "EF",
+      "tripStartDate": "3/28/2001",
+      "tripEndDate": "5/30/2003",
+      "trNumber": "872527",
+      "tripCost": "$8657",
+      "tripSimilarDuty": "Yes",
+      "tripReason": ""
+    },
+    {
+      "parentId": "2",
+      "tripId": "8",
+      "tripOffice": "GA",
+      "tripStartDate": "5/5/2012",
+      "tripEndDate": "5/4/2015",
+      "trNumber": "7141178",
+      "tripCost": "$6786",
+      "tripSimilarDuty": "No",
+      "tripReason": ""
+    },
+    {
+      "parentId": "2",
+      "tripId": "9",
+      "tripOffice": "MD",
+      "tripStartDate": "7/27/2014",
+      "tripEndDate": "8/15/2014",
+      "trNumber": "827540",
+      "tripCost": "$2333",
+      "tripSimilarDuty": "No",
+      "tripReason": ""
+    },
+    {
+      "parentId": "2",
+      "tripId": "13",
+      "tripOffice": "IB",
+      "tripStartDate": "10/29/2016",
+      "tripEndDate": "12/31/2016",
+      "trNumber": "452527",
+      "tripCost": "$4534",
+      "tripSimilarDuty": "Yes",
+      "tripReason": ""
+    },
+    {
+      "parentId": "5",
+      "tripId": "14",
+      "tripOffice": "BO",
+      "tripStartDate": "1/1/1998",
+      "tripEndDate": "1/1/2003",
+      "trNumber": "9782782",
+      "tripCost": "$345",
+      "tripSimilarDuty": "No",
+      "tripReason": ""
+    },
+    {
+      "parentId": "5",
+      "tripId": "15",
+      "tripOffice": "RS",
+      "tripStartDate": "12/15/2002",
+      "tripEndDate": "12/27/2002",
+      "trNumber": "54057275",
+      "tripCost": "$3453",
+      "tripSimilarDuty": "Yes",
+      "tripReason": ""
+    },
+    {
+      "parentId": "5",
+      "tripId": "18",
+      "tripOffice": "HO",
+      "tripStartDate": "7/9/2005",
+      "tripEndDate": "8/1/2005",
+      "trNumber": "1525778",
+      "tripCost": "$345",
+      "tripSimilarDuty": "Yes",
+      "tripReason": ""
+    },
+    {
+      "parentId": "3",
+      "tripId": "19",
+      "tripOffice": "OF",
+      "tripStartDate": "5/2/2017",
+      "tripEndDate": "5/30/2017",
+      "trNumber": "527278",
+      "tripCost": "$4543",
+      "tripSimilarDuty": "Yes",
+      "tripReason": ""
+    },
+    {
+      "parentId": "3",
+      "tripId": "22",
+      "tripOffice": "YZ",
+      "tripStartDate": "2/2/2020",
+      "tripEndDate": "3/5/2020",
+      "trNumber": "575278",
+      "tripCost": "$987",
+      "tripSimilarDuty": "No",
+      "tripReason": ""
+    }
+  ],
+  "staffTDY": [
+    {
+      "parentId": "4",
       "id": "1",
       "tdyOffice": "AA",
       "tdyStartDate": "8/4/2005",
@@ -12,7 +168,7 @@
       "tdyReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      "parentId": "1",
+      "parentId": "3",
       "id": "2",
       "tdyOffice": "AB",
       "tdyStartDate": "11/24/2008",
@@ -23,7 +179,7 @@
       "tdyReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      "parentId": "1",
+      "parentId": "2",
       "id": "3",
       "tdyOffice": "AC",
       "tdyStartDate": "1/1/2003",
@@ -34,7 +190,7 @@
       "tdyReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      "parentId": "4",
+      "parentId": "1",
       "id": "4",
       "tdyOffice": "CD",
       "tdyStartDate": "9/22/1998",
@@ -42,29 +198,7 @@
       "trNumber": "75752",
       "tdyCost": "$875",
       "tdySimilarDuty": "Yes",
-      "tdyReason": ""
-    },
-    {
-      "parentId": "4",
-      "id": "5",
-      "tdyOffice": "DE",
-      "tdyStartDate": "4/19/2006",
-      "tdyEndDate": "4/18/2008",
-      "trNumber": "787272",
-      "tdyCost": "$2346",
-      "tdySimilarDuty": "No",
-      "tdyReason": ""
-    },
-    {
-      "parentId": "4",
-      "id": "6",
-      "tdyOffice": "EF",
-      "tdyStartDate": "3/28/2001",
-      "tdyEndDate": "5/30/2003",
-      "trNumber": "872527",
-      "tdyCost": "$8657",
-      "tdySimilarDuty": "Yes",
-      "tdyReason": ""
+      "tripReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "parentId": "4",
@@ -101,28 +235,6 @@
     },
     {
       "parentId": "2",
-      "id": "10",
-      "tdyOffice": "VA",
-      "tdyStartDate": "2/1/2015",
-      "tdyEndDate": "3/1/2016",
-      "trNumber": "3550245",
-      "tdyCost": "$989",
-      "tdySimilarDuty": "Yes",
-      "tdyReason": ""
-    },
-    {
-      "parentId": "2",
-      "id": "11",
-      "tdyOffice": "WY",
-      "tdyStartDate": "6/30/2020",
-      "tdyEndDate": "8/24/2020",
-      "trNumber": "452727",
-      "tdyCost": "$566",
-      "tdySimilarDuty": "Yes",
-      "tdyReason": ""
-    },
-    {
-      "parentId": "2",
       "id": "12",
       "tdyOffice": "ID",
       "tdyStartDate": "2/5/2019",
@@ -145,28 +257,6 @@
     },
     {
       "parentId": "5",
-      "id": "14",
-      "tdyOffice": "BO",
-      "tdyStartDate": "1/1/1998",
-      "tdyEndDate": "1/1/2003",
-      "trNumber": "9782782",
-      "tdyCost": "$345",
-      "tdySimilarDuty": "No",
-      "tdyReason": ""
-    },
-    {
-      "parentId": "5",
-      "id": "15",
-      "tdyOffice": "RS",
-      "tdyStartDate": "12/15/2002",
-      "tdyEndDate": "12/27/2002",
-      "trNumber": "54057275",
-      "tdyCost": "$3453",
-      "tdySimilarDuty": "Yes",
-      "tdyReason": ""
-    },
-    {
-      "parentId": "5",
       "id": "16",
       "tdyOffice": "TY",
       "tdyStartDate": "6/18/2004",
@@ -174,17 +264,6 @@
       "trNumber": "654023727",
       "tdyCost": "$875",
       "tdySimilarDuty": "Yes",
-      "tdyReason": ""
-    },
-    {
-      "parentId": "5",
-      "id": "17",
-      "tdyOffice": "YZ",
-      "tdyStartDate": "7/25/2006",
-      "tdyEndDate": "7/31/2006",
-      "trNumber": "0242378",
-      "tdyCost": "$100",
-      "tdySimilarDuty": "No",
       "tdyReason": ""
     },
     {
@@ -206,28 +285,6 @@
       "tdyEndDate": "5/30/2017",
       "trNumber": "527278",
       "tdyCost": "$4543",
-      "tdySimilarDuty": "Yes",
-      "tdyReason": ""
-    },
-    {
-      "parentId": "3",
-      "id": "20",
-      "tdyOffice": "TO",
-      "tdyStartDate": "3/5/2001",
-      "tdyEndDate": "3/12/2008",
-      "trNumber": "895872",
-      "tdyCost": "$4546",
-      "tdySimilarDuty": "No",
-      "tdyReason": ""
-    },
-    {
-      "parentId": "3",
-      "id": "21",
-      "tdyOffice": "AA",
-      "tdyStartDate": "12/5/1999",
-      "tdyEndDate": "1/10/2000",
-      "trNumber": "045024",
-      "tdyCost": "$8567",
       "tdySimilarDuty": "Yes",
       "tdyReason": ""
     },
