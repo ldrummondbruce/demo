@@ -9,7 +9,7 @@
       "trNumber": "123456",
       "tripCost": "$4345",
       "tripSimilarDuty": "No",
-      "tripReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "tripNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "parentId": "2",
@@ -20,7 +20,7 @@
       "trNumber": "235252",
       "tripCost": "$123",
       "tripSimilarDuty": "Yes",
-      "tripReason": "Lorem ipsum eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "tripNotes": "Lorem ipsum eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "parentId": "3",
@@ -31,7 +31,7 @@
       "trNumber": "546545",
       "tripCost": "$567",
       "tripSimilarDuty": "No",
-      "tripReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "tripNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "parentId": "4",
@@ -42,7 +42,7 @@
       "trNumber": "75752",
       "tripCost": "$875",
       "tripSimilarDuty": "Yes",
-      "tripReason": "Do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "tripNotes": "Do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "parentId": "4",
@@ -53,7 +53,7 @@
       "trNumber": "787272",
       "tripCost": "$2346",
       "tripSimilarDuty": "No",
-      "tripReason": ""
+      "tripNotes": ""
     },
     {
       "parentId": "4",
@@ -64,7 +64,7 @@
       "trNumber": "872527",
       "tripCost": "$8657",
       "tripSimilarDuty": "Yes",
-      "tripReason": ""
+      "tripNotes": ""
     },
     {
       "parentId": "2",
@@ -75,7 +75,7 @@
       "trNumber": "7141178",
       "tripCost": "$6786",
       "tripSimilarDuty": "No",
-      "tripReason": ""
+      "tripNotes": ""
     },
     {
       "parentId": "2",
@@ -86,7 +86,7 @@
       "trNumber": "827540",
       "tripCost": "$2333",
       "tripSimilarDuty": "No",
-      "tripReason": ""
+      "tripNotes": ""
     },
     {
       "parentId": "5",
@@ -97,7 +97,7 @@
       "trNumber": "9782782",
       "tripCost": "$345",
       "tripSimilarDuty": "No",
-      "tripReason": ""
+      "tripNotes": ""
     },
     {
       "parentId": "5",
@@ -108,7 +108,7 @@
       "trNumber": "1525778",
       "tripCost": "$345",
       "tripSimilarDuty": "Yes",
-      "tripReason": ""
+      "tripNotes": ""
     },
     {
       "parentId": "3",
@@ -119,7 +119,7 @@
       "trNumber": "527278",
       "tripCost": "$4543",
       "tripSimilarDuty": "Yes",
-      "tripReason": ""
+      "tripNotes": ""
     },
     {
       "parentId": "3",
@@ -130,7 +130,7 @@
       "trNumber": "575278",
       "tripCost": "$987",
       "tripSimilarDuty": "No",
-      "tripReason": ""
+      "tripNotes": ""
     }
   ],
   "staffTDY": [
@@ -176,7 +176,7 @@
       "trNumber": "75752",
       "tdyCost": "$875",
       "tdySimilarDuty": "Yes",
-      "tripReason": "Lorem ipsum tempor incididunt ut labore et dolore magna aliqua."
+      "tripNotes": "Lorem ipsum tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       "parentId": "4",
