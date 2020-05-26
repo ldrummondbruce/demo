@@ -8,7 +8,7 @@
       "tripEndDate": "10/30/2007",
       "trNumber": "123456",
       "tripCost": "$4345",
-      "tripCostIsActual": "No",
+      "tripCostCalc": "Estimate",
       "tripType": "Tour Renewal Travel",
       "tripNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
@@ -20,7 +20,7 @@
       "tripEndDate": "2/18/2009",
       "trNumber": "235252",
       "tripCost": "$123",
-      "tripCostIsActual": "Yes",
+      "tripCostCalc": "Actual",
       "tripType": "Consultation Travel",
       "tripNotes": "Lorem ipsum eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
@@ -32,7 +32,7 @@
       "tripEndDate": "2/6/2007",
       "trNumber": "546545",
       "tripCost": "$567",
-      "tripCostIsActual": "No",
+      "tripCostCalc": "Estimate",
       "tripType": "Educational",
       "tripNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
@@ -44,7 +44,7 @@
       "tripEndDate": "12/25/2003",
       "trNumber": "75752",
       "tripCost": "$875",
-      "tripCostIsActual": "Yes",
+      "tripCostCalc": "Actual",
       "tripType": "Home Leave",
       "tripNotes": "Do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
@@ -56,7 +56,7 @@
       "tripEndDate": "5/4/2015",
       "trNumber": "7141178",
       "tripCost": "$6786",
-      "tripCostIsActual": "No",
+      "tripCostCalc": "Estimate",
       "tripType": "Educational",
       "tripNotes": "wa aetweasf rf waew "
     },
@@ -68,7 +68,7 @@
       "tripEndDate": "8/15/2014",
       "trNumber": "827540",
       "tripCost": "$2333",
-      "tripCostIsActual": "No",
+      "tripCostCalc": "Estimate",
       "tripType": "R & R Leave",
       "tripNotes": ""
     },
@@ -80,7 +80,7 @@
       "tripEndDate": "1/1/2003",
       "trNumber": "9782782",
       "tripCost": "$345",
-      "tripCostIsActual": "No",
+      "tripCostCalc": "Estimate",
       "tripType": "Tour Renewal Travel",
       "tripNotes": "aerwae rfwae wrweawrewae"
     },
@@ -92,7 +92,7 @@
       "tripEndDate": "5/30/2017",
       "trNumber": "527278",
       "tripCost": "$4543",
-      "tripCostIsActual": "Yes",
+      "tripCostCalc": "Actual",
       "tripType": "Home Leave",
       "tripNotes": ""
     },
@@ -104,7 +104,7 @@
       "tripEndDate": "3/5/2020",
       "trNumber": "575278",
       "tripCost": "$987",
-      "tripCostIsActual": "No",
+      "tripCostCalc": "Estimate",
       "tripType": "R & R Leave",
       "tripNotes": ""
     }
