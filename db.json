@@ -300,18 +300,6 @@
       "tdyReason": ""
     }
   ],
-  "offices": [
-    { "id": 1, "label": "Abu Dhabi", "value": "AD" },
-    { "id": 2, "label": "Abuja", "value": "AJ" },
-    { "id": 3, "label": "Accra", "value": "AC" },
-    { "id": 4, "label": "Addis Ababa", "value": "AS" },
-    { "id": 5, "label": "Amman", "value": "AM" },
-    { "id": 6, "label": "Ankara", "value": "AA" },
-    { "id": 7, "label": "Baghdad", "value": "BV" },
-    { "id": 8, "label": "Berlin", "value": "BN" },
-    { "id": 9, "label": "Bridgetown", "value": "BB" },
-    { "id": 10, "label": "Buenos Aires", "value": "BE" }
-  ],
   "travel": [
     { "id": 1, "travelDesc": "Resolution 6", "travelCode": "6" },
     { "id": 2, "travelDesc": "Training", "travelCode": "A" },
