@@ -1,4 +1,38 @@
 {
+  "staffTours": [
+    {
+      "parentId": "1",
+      "tourId": "1",
+      "tourOffice": "AA",
+      "tourStartDate": "5/2/2017",
+      "tourEndDate": "5/30/2017",
+      "tourJob": "CID-ALAT"
+    },
+    {
+      "parentId": "2",
+      "tourId": "2",
+      "tourOffice": "CD",
+      "tourStartDate": "5/5/2012",
+      "tourEndDate": "5/4/2015",
+      "tourJob": "FOS"
+    },
+    {
+      "parentId": "3",
+      "tourId": "3",
+      "tourOffice": "GA",
+      "tourStartDate": "1/1/2003",
+      "tourEndDate": "2/6/2007",
+      "tourJob": "LOA"
+    },
+    {
+      "parentId": "4",
+      "tourId": "4",
+      "tourOffice": "YZ",
+      "tourStartDate": "8/4/2005",
+      "tourEndDate": "10/30/2007",
+      "tourJob": "DD"
+    }
+  ],
   "staffTravel": [
     {
       "parentId": "1",
@@ -59,18 +93,6 @@
       "tripCostCalc": "Estimate",
       "tripType": "Educational",
       "tripNotes": "wa aetweasf rf waew "
-    },
-    {
-      "parentId": "2",
-      "tripId": "9",
-      "tripOffice": "MD",
-      "tripStartDate": "7/27/2014",
-      "tripEndDate": "8/15/2014",
-      "trNumber": "827540",
-      "tripCost": "$2333",
-      "tripCostCalc": "Estimate",
-      "tripType": "R & R Leave",
-      "tripNotes": ""
     },
     {
       "parentId": "5",
@@ -228,7 +250,6 @@
       "jobDesc": "Cyber Assistant Legal Attache"
     },
     { "id": 9, "jobCode": "CY-IA", "jobDesc": "Cyber Intelligence Analyst" },
-    { "id": 10, "jobCode": "DD", "jobDesc": "Deputy Director (ICITAP)" },
     { "id": 11, "jobCode": "DLAT", "jobDesc": "Deputy Legal Attache" },
     { "id": 12, "jobCode": "FOS", "jobDesc": "Foreign Operations Specialist" },
     { "id": 13, "jobCode": "IA", "jobDesc": "Intelligence Analyst" },
@@ -242,15 +263,10 @@
     { "id": 17, "jobCode": "LOA", "jobDesc": "Legat Office Assistant" },
     { "id": 18, "jobCode": "LOS", "jobDesc": "Legat Operations Specialist" },
     { "id": 19, "jobCode": "LS", "jobDesc": "Language Specialist" },
-    { "id": 20, "jobCode": "LTDY", "jobDesc": "Long Term TDY" },
     { "id": 21, "jobCode": "PM", "jobDesc": "Program Manager (ILEA)" },
     { "id": 22, "jobCode": "R6", "jobDesc": "Resolution 6 (DEA Detailee)" },
     { "id": 23, "jobCode": "R6-IA", "jobDesc": "Resolution 6 Intel. Analyst" },
-    { "id": 24, "jobCode": "SA", "jobDesc": "Special Agent" },
-    { "id": 25, "jobCode": "SADV", "jobDesc": "Senior Advisor" },
     { "id": 26, "jobCode": "SSA", "jobDesc": "Supervisory Special Agent" },
-    { "id": 27, "jobCode": "TF", "jobDesc": "Task Force (Detailee)" },
-    { "id": 28, "jobCode": "VSM", "jobDesc": "Victim Services Mgr" },
     {
       "id": 29,
       "jobCode": "WMD-ALAT",
