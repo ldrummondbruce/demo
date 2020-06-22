@@ -232,97 +232,47 @@
       "tdyReason": ""
     }
   ],
-  "offices": [
+  "jobs": [
+    { "id": 1, "jobCode": "ALAT", "jobDesc": "Assistant Legal Attache" },
+    { "id": 2, "jobCode": "AS", "jobDesc": "Administrative Specialist" },
+    { "id": 3, "jobCode": "CD-ALAT", "jobDesc": "CD Assistant Legal Attache" },
+    { "id": 4, "jobCode": "CD-IA", "jobDesc": "CD Intelligence Analyst" },
     {
-      "id": 1,
-      "officeCode": "AM",
-      "officeName": "Amman",
-      "isExpansion": "no",
-      "officeHQ": "",
-      "officeOpenDate": "12/21/1972",
-      "officeClosedDate": "",
-      "officeType": "L"
+      "id": 5,
+      "jobCode": "CID-ALAT",
+      "jobDesc": "CID Assistant Legal Attache"
     },
-    {
-      "id": 2,
-      "officeCode": "GU",
-      "officeName": "Guadalajara",
-      "isExpansion": "no",
-      "officeHQ": "",
-      "officeOpenDate": "10/6/1993",
-      "officeClosedDate": "",
-      "officeType": "H"
-    },
-    {
-      "id": 3,
-      "officeCode": "SP",
-      "officeName": "Sofia",
-      "isExpansion": "no",
-      "officeHQ": "",
-      "officeOpenDate": "5/29/1972",
-      "officeClosedDate": "5/29/1992",
-      "officeType": "F"
-    },
-    {
-      "id": 4,
-      "officeCode": "TI",
-      "officeName": "Tbilisi",
-      "isExpansion": "no",
-      "officeHQ": "",
-      "officeOpenDate": "5/14/1999",
-      "officeClosedDate": "",
-      "officeType": "H"
-    },
-    {
-      "id": 6,
-      "officeCode": "JA",
-      "officeName": "Jakarta",
-      "isExpansion": "yes",
-      "officeHQ": "BK",
-      "officeOpenDate": "8/5/1999",
-      "officeClosedDate": "",
-      "officeType": "X"
-    },
-    {
-      "id": 7,
-      "officeCode": "FR",
-      "officeName": "Frankfurt",
-      "isExpansion": "no",
-      "officeHQ": "",
-      "officeOpenDate": "1/1/1992",
-      "officeClosedDate": "",
-      "officeType": "L"
-    },
+    { "id": 6, "jobCode": "CID-IA", "jobDesc": "CID Intelligence Analyst" },
+    { "id": 7, "jobCode": "CTD-IA", "jobDesc": "CTD Intelligence Analyst" },
     {
       "id": 8,
-      "officeCode": "TL",
-      "officeName": "Tallinn",
-      "isExpansion": "no",
-      "officeHQ": "",
-      "officeOpenDate": "3/26/2000",
-      "officeClosedDate": "3/26/2010",
-      "officeType": "L"
+      "jobCode": "CY-ALAT",
+      "jobDesc": "Cyber Assistant Legal Attache"
     },
+    { "id": 9, "jobCode": "CY-IA", "jobDesc": "Cyber Intelligence Analyst" },
+    { "id": 11, "jobCode": "DLAT", "jobDesc": "Deputy Legal Attache" },
+    { "id": 12, "jobCode": "FOS", "jobDesc": "Foreign Operations Specialist" },
+    { "id": 13, "jobCode": "IA", "jobDesc": "Intelligence Analyst" },
     {
-      "id": 9,
-      "officeCode": "BE",
-      "officeName": "Buenos Aires",
-      "isExpansion": "yes",
-      "officeHQ": "MH",
-      "officeOpenDate": "4/23/2004",
-      "officeClosedDate": "4/23/2024",
-      "officeType": "S"
+      "id": 14,
+      "jobCode": "IRS",
+      "jobDesc": "Intelligence Research Specialist"
     },
+    { "id": 15, "jobCode": "Legat", "jobDesc": "Legal Attache" },
+    { "id": 16, "jobCode": "LNO", "jobDesc": "Liaison Officer" },
+    { "id": 17, "jobCode": "LOA", "jobDesc": "Legat Office Assistant" },
+    { "id": 18, "jobCode": "LOS", "jobDesc": "Legat Operations Specialist" },
+    { "id": 19, "jobCode": "LS", "jobDesc": "Language Specialist" },
+    { "id": 21, "jobCode": "PM", "jobDesc": "Program Manager (ILEA)" },
+    { "id": 22, "jobCode": "R6", "jobDesc": "Resolution 6 (DEA Detailee)" },
+    { "id": 23, "jobCode": "R6-IA", "jobDesc": "Resolution 6 Intel. Analyst" },
+    { "id": 26, "jobCode": "SSA", "jobDesc": "Supervisory Special Agent" },
     {
-      "id": 10,
-      "officeCode": "BK",
-      "officeName": "Bangkok",
-      "isExpansion": "yes",
-      "officeHQ": "TE",
-      "officeOpenDate": "3/18/1977",
-      "officeClosedDate": "",
-      "officeType": "F"
-    }
+      "id": 29,
+      "jobCode": "WMD-ALAT",
+      "jobDesc": "WMD Assistant Legal Attache"
+    },
+    { "id": 30, "jobCode": "WMD-IA", "jobDesc": "WMDD Intelligence Analyst" }
   ],
   "profile": {
     "name": "typicode"
